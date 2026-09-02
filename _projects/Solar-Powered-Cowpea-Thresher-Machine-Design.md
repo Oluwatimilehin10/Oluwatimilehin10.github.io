@@ -23,7 +23,7 @@ skills:
   - Scan-to-CAD
   - Feature Tree Management
   - Tolerance Application
-main-image: /assets/images/projects/thresher/hero-render.jpg
+main-image: /assets/images/projects/Solar-Powered-Cowpea-Thresher/Cowpea Thresher (Isometric View).jpg
 date: 2025-07-28
 categories: [Agricultural Engineering, Mechanical Design, Sustainable Energy]
 github_url: https://github.com/Oluwatimilehin10.github.io/projects/
@@ -39,6 +39,8 @@ The Problem: In sub-Saharan Africa, over 70% of cowpea production relies on manu
 The Solution: A solar-powered cowpea thresher designed specifically for smallholder farmers in off-grid agricultural communities. The machine utilizes renewable solar energy to power an electric motor that drives a threshing drum, separating grains from pods efficiently with minimal damage. The design prioritizes affordability, durability, ease of maintenance, and manufacturability in local contexts.
 
 My Role: Lead Mechanical Design Engineer - Responsible for full product lifecycle from conceptualization through detailed parametric CAD modeling, structural analysis, DFM optimization, and manufacturing documentation.
+
+(/assets/images/projects/Solar-Powered-Cowpea-Thresher/Cowpea Thresher (Isometric View).jpg)
 
 
 📐 Parametric CAD Modeling & Feature Tree Management
@@ -72,6 +74,8 @@ Assembly Modeling:
 2. Mate Management: Applied precise constraints with strategic use of limit, width, and CAM mates to simulate actual mechanical motion, validating range of motion and interference-free operation.
 
 3. Subassembly Organization: Modularized the design into logical subassemblies to enable parallel development and simplify future revisions.
+
+(/assets/images/projects/Solar-Powered-Cowpea-Thresher/Exploded View 2.jpg)
 
 
 🔧 Design for Manufacturing (DFM) & Manufacturing Method Optimization
