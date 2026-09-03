@@ -1,5 +1,4 @@
 ---
-main-image: /assets/images/projects/Solar-Powered-Cowpea-Thresher/Cowpea-Thresher-(Isometric-View).png
 layout: post
 title: "Solar-Powered Cowpea Thresher Machine Design"
 description: "A fully-parametric, DFM-optimized, solar-powered agricultural threshing machine demonstrating advanced SolidWorks modeling, GD&T application, FEA analysis, and multi-method manufacturing design."
