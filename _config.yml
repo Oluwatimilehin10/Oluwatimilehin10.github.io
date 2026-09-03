@@ -20,7 +20,7 @@ description: >- # dont remove this line. this will ignore all new lines until th
   for injection molding, CNC machining, and sheet metal fabrication.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
-profile_image: ./assets/images/profile-image/Abdulmuizz.jpeg
+profile_image: /assets/images/profile-image/Abdulmuizz.jpeg
 
 
 # Link your resume
@@ -32,15 +32,15 @@ resume-url: https://drive.google.com/file/d/13Z3duVzh-gguPU5r03oJVEE6rV9rd3DS/vi
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
   linkedin: https://www.linkedin.com/in/abdulmuizz-sanni-925005295?utm_source=share_via&utm_content=profile&utm_medium=member_android   # https://www.linkedin.com/in/{your url slug} 
-  github: leea12    # https://github.com/{your url slug} 
-  stackoverflow: test      # https://stackoverflow.com/users/{your url slug}
-  medium:            # https://medium.com/@{your url slug} 
-  x-twitter:   # https://x.com/{your url slug} 
-  threads:            # https://threads.net/@{your url slug} 
-  instragram:       # https://instagram.com/{your url slug} 
+  # https://github.com/{your url slug} 
+  # https://stackoverflow.com/users/{your url slug}
+  # https://medium.com/@{your url slug} 
+  # https://x.com/{your url slug} 
+  # https://threads.net/@{your url slug} 
+  # https://instagram.com/{your url slug} 
   youtube: https://youtube.com/@engineering_prodigy?si=j4NdAuBCYhzX_4_z         # https://youtube.com/@{your url slug} 
   discord:            # https://discord.com/users/{your url slug} 
-  bluesky:           # https://bsky.app/profile/{your url slug} 
+  # https://bsky.app/profile/{your url slug} 
   
 
 # Skills Section - Add the list of your Skills by categories/tools. The indentation for each level needs to be precise. 
