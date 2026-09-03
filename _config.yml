@@ -13,7 +13,6 @@ title: Mechanical Design Engineer's Portfolio # This is what shows up in the tab
 
 # Hero Section
 name: Abdulmuizz Sanni
-headline: headline message
 description: >- # dont remove this line. this will ignore all new lines until the next section
   Mechanical Design Specialist with 4+ years of parametric CAD experience
   specializing in sustainable agricultural machinery, DFM, and GD&T.
@@ -21,7 +20,7 @@ description: >- # dont remove this line. this will ignore all new lines until th
   for injection molding, CNC machining, and sheet metal fabrication.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
-profile_image: ./assets/images/profile-image/avatar.jpeg
+profile_image: ./assets/images/profile-image/Abdulmuizz.png
 
 
 # Link your resume
