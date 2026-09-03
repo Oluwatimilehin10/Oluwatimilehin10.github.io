@@ -1,5 +1,5 @@
 ---
-main-image: /assets/images/projects/Solar-Powered-Cowpea-Thresher/Cowpea-Thresher-(Isometric-View).png
+main-image: assets/images/projects/Solar-Powered-Cowpea-Thresher/Cowpea-Thresher-(Isometric-View).png
 layout: post
 title: "Solar-Powered Cowpea Thresher Machine Design"
 description: "A fully-parametric, DFM-optimized, solar-powered agricultural threshing machine demonstrating advanced SolidWorks modeling, GD&T application, FEA analysis, and multi-method manufacturing design."
@@ -24,7 +24,7 @@ skills:
   - Scan-to-CAD
   - Feature Tree Management
   - Tolerance Application
-main-image: /assets/images/projects/Solar-Powered-Cowpea-Thresher/Cowpea-Thresher-(Isometric-View).png
+main-image: assets/images/projects/Solar-Powered-Cowpea-Thresher/Cowpea-Thresher-(Isometric-View).png
 date: 2025-07-28
 categories: [Agricultural Engineering, Mechanical Design, Sustainable Energy]
 github_url: https://github.com/Oluwatimilehin10.github.io/projects/
@@ -41,7 +41,7 @@ The Solution: A solar-powered cowpea thresher designed specifically for smallhol
 
 My Role: Lead Mechanical Design Engineer - Responsible for full product lifecycle from conceptualization through detailed parametric CAD modeling, structural analysis, DFM optimization, and manufacturing documentation.
 
-![Cowpea Thresher (Isometric View)](/assets/images/projects/Solar-Powered-Cowpea-Thresher/Cowpea-Thresher-(Isometric-View).png)
+![Cowpea Thresher (Isometric View)](assets/images/projects/Solar-Powered-Cowpea-Thresher/Cowpea-Thresher-(Isometric-View).png)
 
 
 📐 Parametric CAD Modeling & Feature Tree Management
@@ -76,8 +76,8 @@ Assembly Modeling:
 
 3. Subassembly Organization: Modularized the design into logical subassemblies to enable parallel development and simplify future revisions.
 
-![Drawing-Screenshot](/assets/images/projects/Solar-Powered-Cowpea-Thresher/Drawing-Screenshot.png)
-![Exploded View 2](/assets/images/projects/Solar-Powered-Cowpea-Thresher/Exploded-View-2.png)
+![Drawing-Screenshot](assets/images/projects/Solar-Powered-Cowpea-Thresher/Drawing-Screenshot.png)
+![Exploded View 2](assets/images/projects/Solar-Powered-Cowpea-Thresher/Exploded-View-2.png)
 
 
 🔧 Design for Manufacturing (DFM) & Manufacturing Method Optimization
